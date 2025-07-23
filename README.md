@@ -45,7 +45,13 @@ The script:
 1. **Install Dependencies**
 
    Make sure you have Python installed.  
-   Install the required libraries:
+   You can install all dependencies in one step using:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Or, install them individually:
 
    ```bash
    pip install pyodbc python-dotenv tabulate
