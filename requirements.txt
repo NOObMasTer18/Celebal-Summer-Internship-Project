@@ -1,3 +1,4 @@
 pyodbc
+os
 python-dotenv
 tabulate
