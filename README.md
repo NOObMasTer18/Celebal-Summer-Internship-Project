@@ -19,7 +19,7 @@ This repository contains the solution for the following project problem statemen
 
 ## Requirements
 
-- The SQL Server database is hosted on a remote server with the IP address: `xxx.xxx.xxx.xxx`
+- The SQL Server database is hosted on a remote server with the IP address: `4.240.94.220`
 - Database name: `CompanyDB`
 - Table name: `Employees`
 - Credentials:
